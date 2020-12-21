@@ -1,0 +1,16 @@
+beautifulsoup4==4.9.3
+block==0.0.5
+certifi==2020.11.8
+chardet==3.0.4
+et-xmlfile==1.0.1
+idna==2.10
+jdcal==1.4.1
+lxml==4.6.1
+numpy==1.19.4
+openpyxl==3.0.5
+pygame==2.0.0
+pywin32==300
+requests==2.25.0
+scipy==1.5.4
+soupsieve==2.0.1
+urllib3==1.26.2
